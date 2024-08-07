@@ -10,7 +10,7 @@ Personally yes, every time so i created this script that do it himself.
 ![2](https://github.com/user-attachments/assets/7046e3a0-57b6-4fea-9d7b-0aac2e320b08)
 ### 3) Go on netflix and choose your favorite tv serie.
 ![3](https://github.com/user-attachments/assets/24bb945d-161f-44dc-84f9-11db4c531a6b)
-### 4) Right click on the screen and press "inspect" or do F12
+### 4) Right click on the screen press "inspect" or do F12
 ![4](https://github.com/user-attachments/assets/924956a9-03b7-4d2e-8597-56c060ffb6f8)
 ### 5) Click on "console"
 ![5](https://github.com/user-attachments/assets/7fe472c1-8548-44da-a68a-dc65474de979)
