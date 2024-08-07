@@ -16,3 +16,5 @@ Personally yes, every time so i created this script that do it himself.
 ![30](https://github.com/user-attachments/assets/7fe472c1-8548-44da-a68a-dc65474de979)
 ### 6) Open the "netflix.txt" file copy the code, paste it in the console, do <sub>enter↲</sub> and you are done!
 ![40](https://github.com/user-attachments/assets/6e4bdbbb-40a8-4cb3-901b-08145ce24b25)
+
+In future i gonna do it also for prime video.
