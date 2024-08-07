@@ -1,0 +1,10 @@
+(function skipIntro() {
+    function clickSkipButton() {
+        const skipButton = document.querySelector('.watch-video--skip-content-button[data-uia="player-skip-intro"]');
+        if (skipButton) {
+            skipButton.click()
+        }
+    }
+
+    setInterval(clickSkipButton, 1000);
+})();
