@@ -6,7 +6,7 @@ Personally yes, every time so i created this script that do it himself.
 
 ### 1) click on "netflix.txt"
 ![1](https://github.com/user-attachments/assets/0bca1c34-4435-4c44-95a3-77a158a3f54b)
-### 2) Click on the download botton
+### 2) Click on the download botton or copy the code
 ![2](https://github.com/user-attachments/assets/7046e3a0-57b6-4fea-9d7b-0aac2e320b08)
 ### 3) Go on netflix and choose your favorite tv serie.
 ![3](https://github.com/user-attachments/assets/24bb945d-161f-44dc-84f9-11db4c531a6b)
